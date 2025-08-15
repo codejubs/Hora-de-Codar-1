@@ -109,42 +109,5 @@ programa {
 
      area_seis = pi * (raio * raio)
 
-     escreva ("O resultado é: " + area_seis)
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  }
+     escreva ("O resultado é: " + area_seis) }
 }
